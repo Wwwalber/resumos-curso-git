@@ -24,4 +24,10 @@ sdsnds
 
   adnkaomdam  aoimda0 aon0 moad9 m aomompadn0n3rb84b sjdnuy58bsbs 3hbda
   nsjnd9b dkomf9n osdinp9snd sodd8 n
+
+## Alterações feitas utilizando o VsCode on line direto do GitHub
+  hsbdjbn dsd9sd sdkdjnñrç nç~dñf sk sdjnjsdjb
+  sdjmdsn isdbnç jds  sdmommos   sdsdkmsdof
+  ksnd8sd  fjsdnã5f 
+  sdimimdnjsdjdn
   
