@@ -1,3 +1,5 @@
 Vamos inserir aqui um arquivo, que vai ser um deferencial no remoto.
 
-As alterações feitas neste parágrafo foram feitas no repositório remoto, via editor do GitHub
+As alterações feitas neste parágrafo foram feitas no repositório LOCAL, via editor do GitHub
+
+Aqui fiz alterações localmente utilizando o VsCode.
