@@ -1,1 +1,3 @@
-Vamos inserir aqui um arquivo, que vai ser um deferencial no remoto
+Vamos inserir aqui um arquivo, que vai ser um deferencial no remoto.
+
+As alterações feitas neste parágrafo foram feitas no repositório remoto, via editor do GitHub
