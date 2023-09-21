@@ -1,0 +1,18 @@
+Aqui começamos a inserir um novo arquivo de texto para começar a testar novas funcionalidades do Lunarvim
+Esta paracendo algo que em alguns momentos realmente faça muito sentido usar.
+Para conhecer algumas funcionalidades legais, podemos procurar um vídeo do Akita (Fábio Akita) no You Tube.
+
+Vamos fazer  mais algumas alterações para testar algumas funcionalidades do Git.
+
+Sabemos que o Git tem diversas propriedades que podem ser bastante úteis no dia-a-dia de trabalho ou estudo.
+Dente as dezenas de funcionalidades que podemos aprender está o uso das diversas variações do comando git reset.
+
+Vamos ao primeiro na prática:
+
+  git reset
+    algumas variantes são: git reset --soft/mixed/hard
+      - git reset soft
+
+inserindo algumas alterações para que fique registradas em vários commits:
+
+* git commit --soft
