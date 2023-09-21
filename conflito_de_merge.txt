@@ -3,3 +3,6 @@ Vamos inserir aqui um arquivo, que vai ser um deferencial no remoto.
 As alterações feitas neste parágrafo foram feitas no repositório remoto, via editor do GitHub.
 
 Novas alterações feita remotamente. Sendo que localmente este mesmo arquivo também está sendo editado, o que deve causar um conflito durante uma tentativa de merge.
+
++++++++++++++++++
+Essa alteração foi feita no arquivo local, utilizando VsCode
